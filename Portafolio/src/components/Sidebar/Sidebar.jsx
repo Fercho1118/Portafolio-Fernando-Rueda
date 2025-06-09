@@ -55,7 +55,7 @@ const Sidebar = ({ activeSection, setActiveSection, isOpen }) => {
         <div className="profile">
           <div className="profile-image">
             <img 
-              src="/assets/images/profile/perfil.jpg" 
+              src="assets/images/profile/perfil.jpg" 
               alt="Fernando Rueda"
               onError={(e) => {
                 // Fallback si la imagen no se encuentra

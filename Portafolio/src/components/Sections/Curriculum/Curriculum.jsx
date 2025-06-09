@@ -4,7 +4,7 @@ import { FaDownload } from 'react-icons/fa'
 
 const Curriculum = () => {
   const handleDownloadCV = () => {
-    window.open('/assets/pdf/curriculum.pdf', '_blank')
+    window.open('assets/pdf/curriculum.pdf', '_blank')
   }
 
   const education = [
