@@ -11,7 +11,7 @@ const Projects = () => {
       image: 'assets/images/projects/memory_game.png',
       technologies: ['HTML', 'JavaScript', 'CSS', 'React'],
       githubUrl: 'https://github.com/Fercho1118/Lab7-React.git',
-      liveUrl: 'https://benedict.lat/rueda/Laboratorios/Lab7-React/'
+      liveUrl: 'https://fercho1118.github.io/Lab7-React/'
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ const Projects = () => {
       image: 'assets/images/projects/calculator.png',
       technologies: ['HTML', 'JavaScript', 'CSS', 'React'],
       githubUrl: 'https://github.com/Fercho1118/Proyecto-Calculadora-React.git',
-      liveUrl: 'https://benedict.lat/rueda/Laboratorios/calculadora/'
+      liveUrl: 'https://fercho1118.github.io/Proyecto-Calculadora-React/'
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ const Projects = () => {
       image: 'assets/images/projects/ghosts.png',
       technologies: ['HTML', 'CSS'],
       githubUrl: 'https://github.com/Fercho1118/lab_4.git',
-      liveUrl: 'https://benedict.lat/rueda/Laboratorios/lab_4/'
+      liveUrl: 'https://fercho1118.github.io/lab_4/'
     },
     {
       id: 5,
@@ -70,7 +70,6 @@ const Projects = () => {
       image: 'assets/images/projects/laliga.png',
       technologies: ['PHP', 'Docker'],
       githubUrl: 'https://github.com/Fercho1118/Lab-6-Backend-only.git',
-      liveUrl: 'https://tu-usuario.github.io'
     },
     {
       id: 9,
@@ -79,7 +78,7 @@ const Projects = () => {
       image: 'assets/images/projects/portfolio.png',
       technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Vite'],
       githubUrl: 'https://github.com/Fercho1118/Portafolio-Fernando-Rueda.git',
-      liveUrl: 'https://tu-usuario.github.io'
+      liveUrl: 'https://fercho1118.github.io/Portafolio-Fernando-Rueda/'
     }
   ]
 
